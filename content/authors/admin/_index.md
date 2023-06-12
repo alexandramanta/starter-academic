@@ -90,7 +90,7 @@ email: "amanta@emory.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Economics at {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. I also hold a BA in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
+I am an Applied Scientist in the forecasting team at {{< staticref "https://www.zillowgroup.com/" "newtab" >}}Zillow{{< /staticref >}}. I hold a Ph.D. in Economics from {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. My BA is in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
 
 My 10-years of experience in real-world economic problems, has equipped me with a strong skillset in **Data Analysis** (data processing, cleansing & modeling) and in **Programming** which are valuable assets to profitable companies. 
 
