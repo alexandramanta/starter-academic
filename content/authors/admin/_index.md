@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Alexandra Manta
+title: Alexandra Manta, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Applied Scientist, Forecasting
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Emory University
-  url: https://www.emory.edu/home/index.html
+- name: Zillow
+  url: https://www.zillowgroup.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometric Time Series Models of Panel Data and Causal Inference in Multilayer Networks.
+bio: My expertise includes Econometric Time Series Models of Panel Data and Causal Inference in Multilayer Networks.
 
 # Interests to show in About widget
 interests:
 - Time Series & Econometric Data Analysis
+- Forecasting using Spatial Models
 - Causal Inference in Multilayer Networks
 - Data-Driven Decision Making
 - Big Data, Network Data, Panel Data, Quantitative Data
@@ -30,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Emory University
-    year: 2023 (Expected)
+    year: 2023 
   - course: MSc in Economics
     institution: Emory University
     year: 2021 
