@@ -6,7 +6,7 @@ title: Alexandra Manta, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Applied Scientist, Forecasting
+role: Applied Scientist, Forecasting & Risk
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,7 @@ bio: My expertise includes Econometric Time Series Models of Panel Data and Caus
 # Interests to show in About widget
 interests:
 - Time Series & Econometric Data Analysis
-- Forecasting using Spatial Models
+- Time Series Forecasting
 - Causal Inference in Multilayer Networks
 - Data-Driven Decision Making
 - Big Data, Network Data, Panel Data, Quantitative Data
@@ -84,17 +84,19 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "amanta@emory.edu"
+email: "dralexandramanta<at>gmail<dot>com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an Applied Scientist in the forecasting team at {{< staticref "https://www.zillowgroup.com/" "newtab" >}}Zillow{{< /staticref >}}. I hold a Ph.D. in Economics from {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA. My BA is in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. 
+I am an Applied Scientist in the forecasting team at {{< staticref "https://www.zillowgroup.com/" "newtab" >}}Zillow{{< /staticref >}}. I enjoy travelling, sports and fine dining.
 
-My 10-years of experience in real-world economic problems, has equipped me with a strong skillset in **Data Analysis** (data processing, cleansing & modeling) and in **Programming** which are valuable assets to profitable companies. 
+My Ph.D. is in Economics from {{< staticref "https://www.emory.edu/home/index.html" "newtab" >}}Emory University{{< /staticref >}}, USA, and my BA is in also in Economics from {{< staticref "https://en.uoa.gr/" "newtab" >}}National and Kapodistrian University of Athens{{< /staticref >}} (UOA), Greece. Since being in high school, economics was the field I wanted to acquire deep expertise in. Dealing with concrete, typically unprecedented economic problems is still my passion.
 
-My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems including **Business Data-Driven Decision Making**. I have worked with datasets in areas such as investments, banking, real estate, and healthcare.
+My 11-years of experience in real-world economic problems, has equipped me with a strong skillset in **Exploratory Economic Data Analysis** (microeconomic analysis, identification of leading indicator model features, model selection and validation, causal inference), **Scientific Programming** (data manipulation, modeling, estimation, forecasting, visualization) and Applied Econometric Time Series **Model Development & Forecasting** (data engineering skills, cloud computing, building economically interpretable business models, producing US market wide forecasts).
+
+My work and academic experience have equipped me with both the *qualitative* and the *quantitative* tools to address a variety of economic problems including **Business Data-Driven Decision Making**. I have worked on product related projects which have direct or indirect implications to business strategy and revenue.  Example datasets I have worked on are in areas such as investments, banking, financial risk, real estate, statistics and healthcare.
 
 
 {{< icon name="eye" pack="fas" >}} View my {{< staticref "https://www.linkedin.com/in/alexandramanta" "newtab" >}}LinkedIn profile{{< /staticref >}}.
