@@ -88,16 +88,18 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "amanta@emory.edu"
+email = "dralexandramanta<at>gmail<dot>com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rich Memorial Building", city = "Atlanta", region = "GA", postcode = "30322-2240", country = "United States", country_code = "US"}
+address = {city = "Washington", region = "DC", country = "United States", country_code = "US"}
+#{street = "Rich Memorial Building", city = "Atlanta", region = "GA", postcode = "30322-2240", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.78986", longitude = "-84.32310"}
+coordinates = {latitude = "38.9072", longitude = "-77.0091"}
+#{latitude = "33.78986", longitude = "-84.32310"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
